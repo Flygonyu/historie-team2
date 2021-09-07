@@ -123,7 +123,7 @@ function showView() {
       <div class="${erValgt[18]}" onclick="grab(18, this)">${ordUt[18]}</div><br>
       <div class="${erValgt[19]}" onclick="grab(19, this)">${ordUt[19]}</div>
       <div class="${erValgt[20]}" onclick="grab(20, this)">${ordUt[20]}</div>
-      <div class="${erValgt[21]}" onclick="grab(2|, this)">${ordUt[21]}</div>
+      <div class="${erValgt[21]}" onclick="grab(21, this)">${ordUt[21]}</div>
       <div class="${erValgt[22]}" onclick="grab(22, this)">${ordUt[22]}</div>
       <div class="${erValgt[23]}" onclick="grab(23, this)">${ordUt[23]}</div>
       <div class="${erValgt[24]}" onclick="grab(24, this)">${ordUt[24]}</div>
