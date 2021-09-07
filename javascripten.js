@@ -6,8 +6,8 @@ let ordUt = [
     '',
     'red',
     'blue',
-    'cat',
-    'dog',
+    'tiger',
+    'frog',
     'huge',
     'tiny',
     'dance',
@@ -16,6 +16,20 @@ let ordUt = [
     'Terje',
     'Linn',
     'Bjørnar',
+    'Monday',
+    'hat',
+    'kid',
+    'dragon',
+    'nail',
+    'sword',
+    'Halloween',
+    'scream',
+    'eye',
+    'unicorn',
+    'trash panda',
+    'tired',
+    'flying',
+
 ]
 
 let ordInn = [
@@ -92,16 +106,28 @@ function showView() {
       <div class="${erValgt[1]}" onclick="grab(1, this)">${ordUt[1]}</div> 
       <div class="${erValgt[2]}" onclick="grab(2, this)">${ordUt[2]}</div> 
       <div class="${erValgt[3]}" onclick="grab(3, this)">${ordUt[3]}</div>
-      <div class="${erValgt[4]}" onclick="grab(4, this)">${ordUt[4]}</div><br>
+      <div class="${erValgt[4]}" onclick="grab(4, this)">${ordUt[4]}</div>
       <div class="${erValgt[5]}" onclick="grab(5, this)">${ordUt[5]}</div> 
-      <div class="${erValgt[6]}" onclick="grab(6, this)">${ordUt[6]}</div>
+      <div class="${erValgt[6]}" onclick="grab(6, this)">${ordUt[6]}</div><br>
       <div class="${erValgt[7]}" onclick="grab(7, this)">${ordUt[7]}</div>
-      <div class="${erValgt[8]}" onclick="grab(8, this)">${ordUt[8]}</div><br>
+      <div class="${erValgt[8]}" onclick="grab(8, this)">${ordUt[8]}</div>
       <div class="${erValgt[9]}" onclick="grab(9, this)">${ordUt[9]}</div>
       <div class="${erValgt[10]}" onclick="grab(10, this)">${ordUt[10]}</div>
       <div class="${erValgt[11]}" onclick="grab(11, this)">${ordUt[11]}</div>
-      <div class="${erValgt[12]}" onclick="grab(12, this)">${ordUt[12]}</div>
-
+      <div class="${erValgt[12]}" onclick="grab(12, this)">${ordUt[12]}</div><br>
+      <div class="${erValgt[13]}" onclick="grab(13, this)">${ordUt[13]}</div>
+      <div class="${erValgt[14]}" onclick="grab(14, this)">${ordUt[14]}</div>
+      <div class="${erValgt[15]}" onclick="grab(15, this)">${ordUt[15]}</div>
+      <div class="${erValgt[16]}" onclick="grab(16, this)">${ordUt[16]}</div>
+      <div class="${erValgt[17]}" onclick="grab(17, this)">${ordUt[17]}</div>
+      <div class="${erValgt[18]}" onclick="grab(18, this)">${ordUt[18]}</div><br>
+      <div class="${erValgt[19]}" onclick="grab(19, this)">${ordUt[19]}</div>
+      <div class="${erValgt[20]}" onclick="grab(20, this)">${ordUt[20]}</div>
+      <div class="${erValgt[21]}" onclick="grab(2|, this)">${ordUt[21]}</div>
+      <div class="${erValgt[22]}" onclick="grab(22, this)">${ordUt[22]}</div>
+      <div class="${erValgt[23]}" onclick="grab(23, this)">${ordUt[23]}</div>
+      <div class="${erValgt[24]}" onclick="grab(24, this)">${ordUt[24]}</div>
+      <div class="${erValgt[25]}" onclick="grab(25, this)">${ordUt[25]}</div>
       
     </section>
       `;
