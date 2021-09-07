@@ -24,7 +24,7 @@ div {
     /* float: left;
     clear: left;  */
     display: inline-block;
-    font-size: 2rem;
+    font-size: 25px;
 }
 
 
@@ -64,15 +64,18 @@ div {
     width: 60%;
     height: 40%;
     text-align: center;
+    background-color: rgb(143, 143, 143);
+    padding:20px;
 }
 
 #ordUt div {
     margin: 10px;
-    font-size: 50px;
+    font-size: 40px;
     /* height: 80px;
     width: 90px; */
     /* background-color: green; */
-    padding: 10px;
+    padding: 1px 10px;
+
 }
 
 #ordUt div:hover {
@@ -85,22 +88,24 @@ div {
 
 
 /* #historie {
-    display: inline; 
+    display: inline;
 } */
 
 .valgt {
-    outline: rgb(61, 57, 57) outset 5px;
-    /* padding: 2px; */
-    /* border-radius: 10px; */
-    background-color: rgba(119, 136, 153, 0.438);
-    /* box-shadow: 0px 2px 3px 1px #000000; */
+    /* outline: rgb(61, 57, 57) outset 5px; */
+    border-radius: 10px;
+    background-color: rgba(77, 83, 90, 0.438);
+    box-shadow: 0px 2px 3px 1px #000000;
+    text-shadow: dimgrey;
 }
 
 #app {
-    margin: 100px;
+    margin: 50px;
     /* text-align: center; */
 }
 
 section {
-    margin: 100px;
+    margin: 70px;
+    /* padding: 20px; */
+    line-height: 70px;
 }
